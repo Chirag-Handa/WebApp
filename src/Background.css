@@ -1,0 +1,15 @@
+.whiteTextOverride{
+  color: white !important;
+}
+
+.BGImage {
+    background-image: 
+    url(
+  "https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-size: 1200px 720px;
+    align-content: center;
+    height: 100vh;
+    margin-top: -100px;
+    font-size:50px;
+    background-repeat:no-repeat; 
+  }
