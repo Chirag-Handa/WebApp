@@ -1,3 +1,4 @@
 export const variables={
-    API_URL:"https://af92-49-206-123-45.in.ngrok.io/api/",
+    API_URL:"https://be8a-49-206-120-28.in.ngrok.io/api/",
 }
+                    
